@@ -1,0 +1,51 @@
+{
+    "id": "spu1e",
+    "title": "SeaPunk Unleashed 1e",
+    "description": "A system for playing SeaPunk Unleashed games.",
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": 11,
+        "verified": "11.300",
+        "maximum": 11
+    },
+    "authors": [
+        {
+            "name": "MrGri00"
+        }
+    ],
+    "esmodules": [
+        "module/spu1e.mjs"
+    ],
+    "styles": [
+        "css/spu1e.css"
+    ],
+    "scripts": [],
+    "packs": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "es",
+            "name": "Spanish",
+            "path": "lang/es.json"
+        },
+        {
+            "lang": "ca",
+            "name": "Catalan",
+            "path": "lang/ca.json"
+        }
+    ],
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "physicalDamage",
+    "secondaryTokenAttribute": "mentalDamage",
+    "url": "https://github.com/MrGri00/spu1e",
+    "manifest": "",
+    "download": "",
+    "license": "https://opengamingfoundation.org/ogl.html",
+    "changelog": "",
+    "bugs": ""
+}

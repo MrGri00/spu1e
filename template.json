@@ -1,0 +1,73 @@
+{
+    "Actor": {
+        "types": [
+            "character",
+            "vehicle",
+            "monster"
+        ],
+        "templates": {
+            "base": {
+                "archetype": "",
+                "faction": "",
+                "data": "",
+                "essences": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "attributes": {
+                    "str": {
+                        "value": 3
+                    },
+                    "dyn": {
+                        "value": 3
+                    },
+                    "will": {
+                        "value": 3
+                    },
+                    "int": {
+                        "value": 3
+                    },
+                    "lck": {
+                        "value": 5
+                    }
+                },
+                "domains": {
+                    "phyD": {
+                        "value": 3
+                    },
+                    "batD": {
+                        "value": 3
+                    },
+                    "socD": {
+                        "value": 3
+                    },
+                    "envD": {
+                        "value": 3
+                    },
+                    "hidD": {
+                        "value": 3
+                    },
+                    "knoD": {
+                        "value": 3
+                    },
+                    "tecD": {
+                        "value": 3
+                    },
+                    "resD": {
+                        "value": 3
+                    },
+                    "demD": {
+                        "value": 3
+                    },
+                    "aurD": {
+                        "value": 3
+                    }
+                }
+            }
+        }
+    }
+}
